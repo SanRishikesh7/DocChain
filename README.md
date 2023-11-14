@@ -1,4 +1,3 @@
-# DocChain
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
@@ -80,6 +79,7 @@ This project is licensed under the MIT License - see the LICENSE.md file for det
 - Solidity and Web3.js documentation
 - IPFS documentation
 - Truffle documentation
+
 
 
 
